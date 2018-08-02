@@ -1,0 +1,35 @@
+.ui.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2 !important;
+    padding-bottom: 30px;
+}
+
+.mainpage {
+    padding-top: 80px
+}
+
+.gallery {
+    background-image: url('../imgs/words.png');
+    background-repeat: no-repeat;
+    background-color: white;
+    padding-top: 120px;
+    padding-bottom: 40px;
+}
+
+.card {
+    width: 75%;
+    /*border: 1px solid gray;*/
+    /*padding: 5px 5px 5px 5px;*/
+}
+
+.card img{
+    width: 100%;
+}
+
+.login-div {
+    padding-top: 100px;
+    width: 50%;
+    margin: auto;
+}
